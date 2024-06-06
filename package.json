@@ -1,0 +1,10 @@
+{
+    "name": "@owen-the-kid/spotimod",
+    "appName": "Spotimod",
+    "version": "1.0.0",
+    "description": "Spotimod is an ad-blocking and ad-free solution for Spotify on your Tizen (Samsung) TVs. It also blocks annoying countdown ads and removes the 'Premium only' watermark.",
+    "main": "scripts/mod.js",
+    "packageType": "app",
+    "websiteURL": "index.html"
+}
+
