@@ -4,6 +4,6 @@
     "version": "1.0.0",
     "description": "Spotimod is an ad-blocking and ad-free solution for Spotify on your Tizen (Samsung) TVs.",
     "packageType": "app",
-    "appPath": "https://",
+    "appPath": "index.html",
 }
 
